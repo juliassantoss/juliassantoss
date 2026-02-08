@@ -16,26 +16,6 @@
 <br/>
 <br/>
 
-
-<div>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api?username=juliassantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      width="50%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliassantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </div>
 
 <br/>
